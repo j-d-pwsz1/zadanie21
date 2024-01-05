@@ -1,3 +1,4 @@
 
 main:	06:00 05.01.2024 Druga linia "kodu".
 feature-trzecia_linia:	06:13 05.01.2024 Trzecia linia "kodu".
+feature-czwarta_linia:	06:57 05.01.2024 Czwarta linia "kodu".
